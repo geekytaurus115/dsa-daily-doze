@@ -21,6 +21,5 @@ class SortArray{
             System.out.print(num + " ");
         }
 
-
     }
 }
